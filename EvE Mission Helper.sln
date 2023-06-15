@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvE Mission Helper", "EvE Mission Helper.csproj", "{A491042C-17D1-4726-A775-A2B649C19A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A491042C-17D1-4726-A775-A2B649C19A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A491042C-17D1-4726-A775-A2B649C19A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A491042C-17D1-4726-A775-A2B649C19A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A491042C-17D1-4726-A775-A2B649C19A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A979DC57-B1C5-4AB1-B04A-3237FD03F6D0}
+	EndGlobalSection
+EndGlobal
